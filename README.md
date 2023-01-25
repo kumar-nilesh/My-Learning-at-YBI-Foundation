@@ -1,2 +1,3 @@
 # My-Learning-at-YBI-Foundation
-My Projects
+i am learning at YBI Foundation
+Data Science
